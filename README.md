@@ -1,10 +1,10 @@
 # AI Burning Bridges
 
-Turn one photo into a short first-person video with a fixed template. Consent-forward, no account.
+Turn one photo into a short first-person video with a fixed template.
 
 ## Links
 
-- [AI Burning Bridges — How To Make Burning Bridges Video.Html](https://aiburningbridges.cc/how-to-make-burning-bridges-video.html)
+- [burning bridges video guide](https://aiburningbridges.cc/how-to-make-burning-bridges-video.html)
 
 - [Main site](https://aiburningbridges.cc/)
 
